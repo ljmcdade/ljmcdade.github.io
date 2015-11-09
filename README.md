@@ -1,18 +1,23 @@
+This is my first webpage!
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+I used:
+HTML
+CSS
 
+I am learning all of this fun stuff through <DecodeMTL>
 
-Hi there! Welcome to Cloud9 IDE!
+I initialized this project in the following way:
 
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
+git init
+git add .
+git commit -m 'Initial Commit'
+git remote add origin git@github.com:decodemtl-student/decodemtl-student.github.io.git
+git push -u origin master
+I updated this project in the following way:
 
-Happy coding!
-The Cloud9 IDE team
+Make some change to the page
+git add index.html (or whatever file you changed)
+git commit -m "changed job title"
+git push
+
+I hope I survive the rest of this course!
